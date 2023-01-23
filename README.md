@@ -24,6 +24,6 @@ Sou estudante de programação faz um 1 ano; com 6 meses de apredizagem em Pytho
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Bon&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Bon&show_icons=true&theme=github_dark&count_private=true)
 
 
