@@ -2,7 +2,7 @@
 
 *`Estudante (Desenvolvedor Python)`*
 
-Sou estudante de programação faz um 1 ano; com 6 meses de apredizagem em Python e Django. Estou sempre em busca de novos conhecimentos e desafios. Aqui, deixarei meus projetos solos, bem como projetos em grupo. 
+Sou estudante de programação faz mais de um ano; com 6 meses de apredizagem em Python e Django. Estou sempre em busca de novos conhecimentos e desafios. Aqui, deixarei meus projetos solos, bem como projetos em grupo. 
 
 ---
 
