@@ -2,6 +2,7 @@
 
 *`Desenvolvedor Full-Stack`*
 
+I'm always looking for new knowledge and challenges. Here, I'll share my solo projects as well as group projects.
 Estou sempre em busca de novos conhecimentos e desafios. Aqui, deixarei meus projetos solos, bem como projetos em grupo.
 
 ---
