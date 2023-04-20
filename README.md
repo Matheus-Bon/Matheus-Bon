@@ -30,4 +30,4 @@ Estou sempre em busca de novos conhecimentos e desafios. Aqui, deixarei meus pro
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Bon&show_icons=true&theme=github_dark&count_private=true)
 
-
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Matheus-Bon/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=bright_lights)
