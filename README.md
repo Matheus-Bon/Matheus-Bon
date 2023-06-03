@@ -28,6 +28,4 @@ I'm always looking for new knowledge and challenges. Here, I'll share my solo pr
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Bon&show_icons=true&theme=github_dark&count_private=true)
-
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Matheus-Bon/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=bright_lights)
