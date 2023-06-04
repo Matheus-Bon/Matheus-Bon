@@ -2,7 +2,8 @@
 
 *`Full-Stack Developer`*
 
-I'm always looking for new knowledge and challenges. Here, I'll share my solo projects as well as group projects.
+I'm always looking for new knowledge and challenges. Here, I'll share my solo projects as well as group projects. </br>
+Lately developing a Delivery web application
 
 ---
 
