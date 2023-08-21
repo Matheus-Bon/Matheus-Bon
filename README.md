@@ -5,9 +5,11 @@
 I'm always looking for new knowledge and challenges. Here, I'll share my solo projects as well as group projects. </br>
 Lately developing a Delivery web application
 
+I’m currently working on <a href="https://tiadoidioma.com.br/">Tia do Idioma</a>
+
 ---
 
-### 🤖 Linguagens e Ferramentas
+### 🤖 Languages and Frameworks
 
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -30,4 +32,4 @@ Lately developing a Delivery web application
 
 #
 
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Matheus-Bon/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=bright_lights)
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Matheus-Bon/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark)
