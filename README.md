@@ -2,7 +2,7 @@
 <h3 align="center">Back-End Developer</h3>
 
 
-- 🔭 I’m currently working on [Tia](https://tiadoidioma.com.br/)
+- 🔭 I’m currently working on [Chat Learning](https://www.chatlearning.com.br/)
 
 - 🌱 I’m currently learning **Introduction to Software Engineering in IBM**
 
