@@ -36,20 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="40px" height="40px"/>
           
           
-          
-          
-          
-          
-
-          
-          
-          
-          
-          
-          
-          
-          
-          
 </p>
 
-
+<h3 align="left">Stats:</h3>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Matheus-Bon%20&theme=dark&border_radius=3" alt="GitHub Streak" /></a></br>
