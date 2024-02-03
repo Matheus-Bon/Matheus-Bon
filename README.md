@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **bonmatheus54@gmail.com**
 
-- 📄 I'm a full-stack developer, but my real passion lies in the back-end. I'm always picking up new techniques, codes, and methods to keep my codebase in good shape.
+- 📄 I'm a backend developer. I'm always picking up new techniques, codes, and methods to keep my codebase in good shape.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
