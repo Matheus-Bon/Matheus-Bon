@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Chat Learning](https://www.chatlearning.com.br/)
 
-- 🌱 I’m currently learning **MongoDB && Data Structure**
+- 🎓 I'm currently pursuing a Bachelor's degree in Computer Science.
 
 - 📫 How to reach me **bonmatheus54@gmail.com**
 
