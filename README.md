@@ -8,14 +8,7 @@
 
 - 📫 How to reach me **bonmatheus54@gmail.com**
 
-- 📄 I'm a backend developer. I'm always picking up new techniques, codes, and methods to keep my codebase in good shape.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matheus-bon-900a24231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-bon-900a24231" height="30" width="40" /></a>
-<a href="https://instagram.com/bon_matheus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bon_matheus" height="30" width="40" /></a>
-<a href="https://discord.gg/nob4029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nob4029" height="30" width="40" /></a>
-</p>
+- 📄 I'm a backend developer at the startup Chat Learning. Developes new features for people to learn a new language in a fun and nature way.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
