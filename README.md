@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 
-- 🔭 I’m currently working on [Chat Learning](https://www.chatlearning.com.br/)
+- 🔭 I’m currently working on [Flopo](https://flopo.com.br)
 
 - 🎓 I'm currently pursuing a Bachelor's degree in Computer Science.
 
