@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **bonmatheus54@gmail.com**
 
-- 📄 I'm a backend developer at the startup Chat Learning. Developes new features for people to learn a new language in a fun and nature way.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
