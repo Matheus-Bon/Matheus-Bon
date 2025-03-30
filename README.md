@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Bon</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 
 - 🔭 I’m currently working on [Flopo](https://flopo.com.br)
@@ -13,19 +13,16 @@
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40px" height="40px"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40px" height="40px"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width="40px" height="40px" />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"width="40px" height="40px"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40px" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" width="40px" height="40px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40px" height="40px"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"width="40px" height="40px"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px" height="40px"/>      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px" height="40px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40px" height="40px" />
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg"  width="40px" height="40px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40px" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40px" height="40px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="40px" height="40px"/>
           
           
 </p>
