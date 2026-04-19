@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer</h3>
 
 
-- 🔭 I’m currently working on Razios
+- 🔭 I’m currently working on Globo
 
 - 🎓 I'm currently pursuing a Bachelor's degree in Computer Science.
 
